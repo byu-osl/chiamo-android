@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+/Users/lexichristiansen/Development/Workspaces/chiamo/.metadata/.plugins/org.eclipse.jdt.core
+422361965.index
+2178852814.index
+2830492848.index
